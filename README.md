@@ -1,3 +1,13 @@
-Projeto final do curso: 
-BI MASTER - BUSINESS INTELLIGENCE MASTER - SISTEMAS INTELIGENTES DE APOIO À DECISÃO EM NEGÓCIOS 
-![image](https://github.com/user-attachments/assets/37dc336f-78d4-4d28-8259-9e88416f1fe0)
+Proposta de Painel de Acompanhamento da Folha de pagamento do Bolsa Família
+
+
+
+Aluna: Marilivia Melo de Sousa.
+
+Orientador: Anderson Nascimento.
+
+Trabalho para conclusão do curso de Pós-Graduação  "Bi Master - Business Intelligence Master - Sistemas Inteligentes De Apoio À Decisão Em Negócios".
+
+Resumo
+
+O presente trabalho tem como objetivo o desenvolvimento de um dashboard para o acompanhamento da folha de pagamento do Programa Social - Bolsa Família. O painel foi desenvolvido com base nas melhores práticas de Business Intelligence (BI) do mercado. Foram elencadas junto ao Gestor as principais necessidades de negócio. Ao longo do projeto é feito um descritivo do processo de todas as etapas de desenvolvimento do painel até a sua conclusão, apresentação e aprovação pelo Gestor. ![image](https://github.com/user-attachments/assets/250e0ebd-7b50-4bcb-9154-bf1dae83b6ab)
