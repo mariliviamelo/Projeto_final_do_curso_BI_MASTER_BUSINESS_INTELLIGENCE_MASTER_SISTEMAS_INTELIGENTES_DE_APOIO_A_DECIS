@@ -1,4 +1,4 @@
-Proposta de Painel de Acompanhamento da Folha de pagamento do Bolsa Família
+Proposta de Painel de Acompanhamento da Folha de pagamento do  Programa Social Bolsa Família
 
 
 
